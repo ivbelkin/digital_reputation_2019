@@ -1,0 +1,18 @@
+                          ./+o+-       ivb@ubuntu
+                  yyyyy- -yyyyyy+      OS: Ubuntu 18.04 bionic
+               ://+//////-yyyyyyo      Kernel: x86_64 Linux 4.15.0-50-generic
+           .++ .:/++++++/-.+sss/`      Uptime: 21d 23m
+         .:++o:  /++++++++/:--:/-      Packages: 967
+        o:+o+:++.`..```.-/oo+++++/     Shell: bash 4.4.19
+       .:+o:+o/.          `+sssoo+/    CPU: AMD EPYC (with IBPB) @ 12x 3.793GHz
+  .++/+:+oo+o:`             /sssooo.   GPU: GeForce GTX 1080 Ti
+ /+++//+:`oo+o               /::--:.   RAM: 1654MiB / 54341MiB
+ \+/+o+++`o++o               ++////.
+  .++.o+++oo+:`             /dddhhh.
+       .+.o+oo:.          `oddhhhh+
+        \+.++o+o``-````.:ohdhhhhh+
+         `:o+++ `ohhhhhhhhyo++os:
+           .o:`.syhhhhhhh/.oo++o`
+               /osyyyyyyo++ooo+++/
+                   ````` +oo+++o\:
+                          `oo++.

@@ -1,0 +1,62 @@
+Running on 12 cores
+Completed 1 of 60
+Time elapsed: 985.0
+
+Completed 2 of 60
+Time elapsed: 1081.1
+
+Completed 3 of 60
+Time elapsed: 937.0
+
+Completed 4 of 60
+Time elapsed: 800.2
+
+Completed 5 of 60
+Time elapsed: 944.3
+
+Completed 6 of 60
+Time elapsed: 805.4
+
+Completed 7 of 60
+Time elapsed: 844.6
+
+Completed 8 of 60
+Time elapsed: 978.8
+
+Completed 9 of 60
+Time elapsed: 810.7
+
+Completed 10 of 60
+Time elapsed: 1004.2
+
+Completed 11 of 60
+Time elapsed: 954.4
+
+Completed 12 of 60
+Time elapsed: 876.3
+
+Completed 13 of 60
+Time elapsed: 796.7
+
+Completed 14 of 60
+Time elapsed: 850.8
+
+Completed 15 of 60
+Time elapsed: 813.3
+
+Completed 16 of 60
+Time elapsed: 827.7
+
+Completed 17 of 60
+Time elapsed: 869.9
+
+Completed 18 of 60
+Time elapsed: 748.0
+
+Completed 19 of 60
+Time elapsed: 794.0
+
+Completed 20 of 60
+Time elapsed: 1013.4
+
+Total time: 17737.8
