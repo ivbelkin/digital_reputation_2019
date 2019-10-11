@@ -92,9 +92,9 @@ PS: Медальки давали с 63 места :(
 <thead><td>Parameter</td><td>Target 1</td><td>Target 2</td><td>Target 3</td><td>Target 4</td><td>Target 5</td></thead>
 <tr><td>X1_cat_to_bin</td><td>False</td><td>False</td><td>False</td><td>True</td><td>False</td></tr>
 <tr><td>X1_num_std</td><td>False</td><td>True</td><td>False</td><td>False</td><td>False</td></tr>
-<tr><td>X1_num_zero_one</td>False<td>False</td><td>False</td><td>True</td><td>False</td></tr>
-<tr><td>compress_binary</td><td>0</td>0<td>3</td><td>0</td><td>0</td></tr>
-<tr><td>outliers_X1_num</td><td>False</td>True<td>True</td><td>True</td><td>False</td></tr>
+<tr><td>X1_num_zero_one</td><td>False</td><td>False</td><td>False</td><td>True</td><td>False</td></tr>
+<tr><td>compress_binary</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td></tr>
+<tr><td>outliers_X1_num</td><td>False</td><td>True</td><td>True</td><td>True</td><td>False</td></tr>
 <tr><td>rm_X1_cat_rare</td><td>True</td><td>True</td><td>False</td><td>False</td><td>False</td></tr>
 </table>
 
